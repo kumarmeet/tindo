@@ -1,2 +1,1 @@
-# tindo
-This is combination of bootstrap and css3
+TinDog Starting Files
